@@ -11,7 +11,6 @@ ASK, PSK, FSK 등 변조, 복조하는 회로 설계를 하였다.
 ![KakaoTalk_20200416_061629526_02](https://user-images.githubusercontent.com/35087350/79402033-b62e6480-7fc5-11ea-9f84-c7bf2547729d.jpg)
 ![KakaoTalk_20200416_061629526_01](https://user-images.githubusercontent.com/35087350/79402034-b6c6fb00-7fc5
 ![KakaoTalk_20200416_061625317_20](https://user-images.githubusercontent.com/35087350/79402106-e70e9980-7fc5-11ea-9043-82ff934d69c4.jpg)
-![KakaoTalk_20200416_061625317_22](https://user-images.githubusercontent.com/35087350/79402109-e8d85d00-7fc5-11ea-8557-78ff45e250f0.jpg)
 ![KakaoTalk_20200416_061625317_21](https://user-images.githubusercontent.com/35087350/79402111-eb3ab700-7fc5-11ea-965b-97f3a374db89.jpg)
 ![KakaoTalk_20200416_061625317_23](https://user-images.githubusercontent.com/35087350/79402116-ee35a780-7fc5-11ea-9f81-ea73baa96307.jpg)
 ![KakaoTalk_20200416_061625317_24](https://user-images.githubusercontent.com/35087350/79402121-f0980180-7fc5-11ea-835c-1ab3a79a56c4.jpg)
