@@ -6,3 +6,4 @@ ASK, PSK, FSK 등 변조, 복조하는 회로 설계를 하였다.
 
 실제로 소자도 많이 부시고, 납땜도 해가며
 얻은 소중한 실험 데이터들
+https://github.com/ssjf409/HW_CE/blob/master/KakaoTalk_20200416_061625317.jpg
